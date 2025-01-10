@@ -1,2 +1,2 @@
-# xgboost-customer-churn
-A Google Colab in which I use an XGBoost algorithm to classify customer churn.
+# XGBoost for Customer Churn
+In this Google Colab, I use XGBoost to classify customer churn.
